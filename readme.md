@@ -1,13 +1,13 @@
 # What is a Design Pattern
 **The design patterns are solutions to given problems**
 
-###### The advantages of design patterns are as follows:
+### The advantages of design patterns are as follows:
 - they are usable across multiple projects
 - the architectural level of problems can be solved
 - they are time-tested and well-proven
 - they have reliability and dependence
 
-###### Classifyng patterns
+### Classifyng patterns
 There are 23 design patterns, classified under three main categories:
 - **Creational Patterns**, 
 they work on th basis of how objects can be created, isolating the details of object creation.
